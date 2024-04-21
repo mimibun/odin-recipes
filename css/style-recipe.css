@@ -27,6 +27,10 @@ li {
     font-size: 18px;
 }
 
+li {
+    margin-left: 22px;
+}
+
 .container {
     width: 756px;
     margin: auto auto;
