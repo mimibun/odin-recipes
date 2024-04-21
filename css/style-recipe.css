@@ -1,0 +1,47 @@
+ * {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+/*     border: 1px dotted red; */
+} 
+
+body {
+    background: #24273a;
+    color: #cad3f5;
+    font-family: "Gabarito";
+}
+
+h1,
+h2 {
+    margin-top: 12px;
+    padding-bottom: 2px;
+}
+
+#title {
+    margin-bottom: 2px;
+}
+
+p,
+li {
+    margin: 5px 0;
+    font-size: 18px;
+}
+
+.container {
+    width: 756px;
+    margin: auto auto;
+}
+
+.header {
+    margin: auto auto;
+}
+
+.headline-underline {
+    border-bottom: 4px solid #c6a0f6;
+} 
+
+.header .image {
+    display: block;
+    margin: 12px auto;
+}
+
