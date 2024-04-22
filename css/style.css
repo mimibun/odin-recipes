@@ -29,6 +29,10 @@ ul {
     margin-left: 22px;
 }
 
+li {
+    margin: 12px 0px;
+}
+
 .container {
     width: 756px;
     margin: auto;
